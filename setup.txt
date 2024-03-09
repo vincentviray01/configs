@@ -1,0 +1,14 @@
+VSCODE
+Extensions
+- VSCode Neovim
+- Python
+
+
+Setup IDE/NeoVim environment
+
+Installing NeoVim:
+https://github.com/neovim/neovim/blob/master/INSTALL.md
+
+Plugins
+Plugin Manager - https://github.com/lewis6991/pckr.nvim
+
