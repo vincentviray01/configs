@@ -6,5 +6,12 @@ $ cd configs
 ```
 
 ```
+# Ubuntu
+
+$ sudo apt update
+$ sudo apt install stow
+```
+
+```
 $ stow .
 ```
