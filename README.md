@@ -1,7 +1,7 @@
 # Installation
 
+Install stow on Ubuntu
 ```
-Ubuntu
 $ sudo apt update
 $ sudo apt install stow
 ```
