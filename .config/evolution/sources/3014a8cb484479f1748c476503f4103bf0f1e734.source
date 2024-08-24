@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=vincentviray01@gmail.com
+Enabled=true
+Parent=c024d8c74c05255d882cd8364ef9ce79445ffdd1
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=15701dc9a405a10f101ddc817552668eba791ab0
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=vincentviray01@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none

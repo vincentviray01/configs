@@ -1,0 +1,27 @@
+2024-05-26 14:53:51.411 [info] (Client) Pylance async client (2024.5.1) started with python extension (2024.6.0)
+2024-05-26 14:53:51.758 [info] [Info  - 2:53:51 PM] (971024) Pylance language server 2024.5.1 (pyright version 1.1.360, commit 4bc8428d) starting
+2024-05-26 14:53:51.758 [info] [Info  - 2:53:51 PM] (971024) Server root directory: file:///home/vincent/.vscode/extensions/ms-python.vscode-pylance-2024.5.1/dist
+2024-05-26 14:53:51.760 [info] [Info  - 2:53:51 PM] (971024) Starting service instance "Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack"
+2024-05-26 14:53:51.763 [info] [Info  - 2:53:51 PM] (971024) Auto-Indent enabled
+2024-05-26 14:53:51.782 [info] [Info  - 2:53:51 PM] (971024) Setting pythonPath for service "Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack": "/bin/python3"
+2024-05-26 14:53:51.782 [info] [Info  - 2:53:51 PM] (971024) Setting environmentName for service "Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack": "3.10.12 (global)"
+2024-05-26 14:53:51.800 [info] [Info  - 2:53:51 PM] (971024) Assuming Python version 3.10.12.final.0
+2024-05-26 14:53:51.894 [info] [Info  - 2:53:51 PM] (971024) Found 21 source files
+2024-05-26 14:53:52.051 [info] [Info  - 2:53:52 PM] (971024) Background analysis(1) root directory: file:///home/vincent/.vscode/extensions/ms-python.vscode-pylance-2024.5.1/dist
+2024-05-26 14:53:52.052 [info] [Info  - 2:53:52 PM] (971024) Background analysis(1) started
+2024-05-26 14:54:01.894 [info] [Info  - 2:54:01 PM] (971024) Indexer background runner(2) root directory: file:///home/vincent/.vscode/extensions/ms-python.vscode-pylance-2024.5.1/dist (index)
+2024-05-26 14:54:01.894 [info] [Info  - 2:54:01 PM] (971024) Indexing(2) started
+2024-05-26 14:54:02.121 [info] [Info  - 2:54:02 PM] (971024) scanned(2) 87 files over 1 exec env
+2024-05-26 14:54:02.762 [info] [Info  - 2:54:02 PM] (971024) indexed(2) 45 files over 1 exec env
+2024-05-26 14:54:02.774 [info] [Info  - 2:54:02 PM] (971024) Indexing finished(2).
+2024-05-26 15:02:41.579 [info] [Info  - 3:02:41 PM] (971024) Setting pythonPath for service "Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack": "/home/vincent/anaconda3/envs/reproduce_bcla/bin/python"
+2024-05-26 15:02:41.579 [info] [Info  - 3:02:41 PM] (971024) Setting environmentName for service "Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack": "3.9.19 (reproduce_bcla conda)"
+2024-05-26 15:02:41.596 [info] [Info  - 3:02:41 PM] (971024) Assuming Python version 3.9.19.final.0
+2024-05-26 15:02:41.717 [info] [Info  - 3:02:41 PM] (971024) Found 21 source files
+2024-05-26 15:02:42.095 [info] [Info  - 3:02:42 PM] (971024) Indexer background runner(3) root directory: file:///home/vincent/.vscode/extensions/ms-python.vscode-pylance-2024.5.1/dist (index)
+2024-05-26 15:02:42.096 [info] [Info  - 3:02:42 PM] (971024) Indexing(3) started
+2024-05-26 15:02:42.435 [info] [Info  - 3:02:42 PM] (971024) scanned(3) 204 files over 1 exec env
+2024-05-26 15:02:43.805 [info] [Info  - 3:02:43 PM] (971024) [BG(1)] Long operation: analyzing: file:///home/vincent/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py (2005ms)
+2024-05-26 15:02:43.870 [info] [Info  - 3:02:43 PM] (971024) indexed(3) 153 files over 1 exec env
+2024-05-26 15:02:43.917 [info] [Info  - 3:02:43 PM] (971024) Indexing finished(3).
+2024-05-26 15:07:42.906 [info] [Error - 3:07:42 PM] Stopping server timed out

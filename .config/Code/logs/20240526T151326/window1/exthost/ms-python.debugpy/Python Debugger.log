@@ -1,0 +1,3 @@
+2024-05-26 15:13:28.498 [info] Name: Python Debugger
+2024-05-26 15:13:28.498 [info] Module: debugpy
+2024-05-26 15:15:05.452 [info] DAP Server launched with command: /home/vincent/anaconda3/envs/reproduce_bcla/bin/python /home/vincent/.vscode/extensions/ms-python.debugpy-2024.6.0-linux-x64/bundled/libs/debugpy/adapter

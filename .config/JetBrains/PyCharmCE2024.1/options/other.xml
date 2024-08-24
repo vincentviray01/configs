@@ -1,0 +1,53 @@
+<application>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="LangManager">
+    <option name="languageName" value="Python" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="15.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "FindSplitterProportion": "0.32983577",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "6",
+    "MarketplacePluginsSearchHistory": "vim",
+    "PYCHARM_CONDA_FULL_LOCAL_PATH": "/home/vincent/anaconda3/bin/conda",
+    "PyCharm.InitialConfiguration": "true",
+    "PyCharm.InitialConfiguration.V2": "true",
+    "PyCharm.InitialConfiguration.V3": "true",
+    "PyCharm.InitialConfiguration.V4": "true",
+    "PyCharm.InitialConfiguration.V5": "true",
+    "PyCharm.InitialConfiguration.V6": "true",
+    "PyCharm.InitialConfiguration.V7": "true",
+    "PyCharm.InitialConfiguration.V8": "true",
+    "debugger.smart.chooser.counter": "1",
+    "enter_selection_count": "5",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "241.15989.155",
+    "experimentalFeature.terminal.shell.command.handling": "false",
+    "fileTypeChangedCounter": "2",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.new.terminal.promotion": "1",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "ide.memory.adjusted": "true",
+    "ideavim.statistics.timestamp": "1719933167230",
+    "input.method.disabler.muted": "true",
+    "last_opened_file_path": "/home/vincent/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Dark",
+    "registry.to.advanced.settings.migration.build": "PC-241.15989.155"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/vincent/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

@@ -1,0 +1,208 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="5" l="1716882074197" />
+    </e>
+    <e n="$Paste">
+      <i c="3" l="1717955787264" />
+    </e>
+    <e n="$Redo">
+      <i c="5" l="1717600115822" />
+    </e>
+    <e n="$SelectAll">
+      <i c="1" l="1719169798004" />
+    </e>
+    <e n="$Undo">
+      <i c="26" l="1717955762481" />
+    </e>
+    <e n="AutoIndentLines">
+      <i c="17" l="1718122661939" />
+    </e>
+    <e n="Back">
+      <i c="47" l="1719933233648" />
+    </e>
+    <e n="BraceOrQuoteOut">
+      <i c="2" l="1718073334240" />
+    </e>
+    <e n="CodeCompletion">
+      <i c="1" l="1717905697956" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="1" l="1717857907386" />
+    </e>
+    <e n="ConfigurationXDebuggerResumeAction">
+      <i c="1" l="1716842667560" />
+    </e>
+    <e n="CreateRunConfiguration">
+      <i c="2" l="1716763199351" />
+    </e>
+    <e n="Debug">
+      <i c="90" l="1719933259750" />
+    </e>
+    <e n="DebugClass">
+      <i c="3" l="1717477046493" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="1505" l="1719934642755" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="19" l="1718122776286" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="1" l="1717777884175" />
+    </e>
+    <e n="EditorCopy">
+      <i c="26" l="1717686210217" />
+    </e>
+    <e n="EditorCut">
+      <i c="2" l="1717600381779" />
+    </e>
+    <e n="EditorDeleteLine">
+      <i c="1" l="1717600109792" />
+    </e>
+    <e n="EditorDown">
+      <i c="29" l="1718122775547" />
+    </e>
+    <e n="EditorEnter">
+      <i c="193" l="1718122663544" />
+    </e>
+    <e n="EditorEscape">
+      <i c="684" l="1719934653727" />
+    </e>
+    <e n="EditorIndentSelection">
+      <i c="9" l="1716844051645" />
+    </e>
+    <e n="EditorLeft">
+      <i c="45" l="1717685761752" />
+    </e>
+    <e n="EditorPaste">
+      <i c="27" l="1719169798443" />
+    </e>
+    <e n="EditorRight">
+      <i c="161" l="1718122632437" />
+    </e>
+    <e n="EditorTab">
+      <i c="20" l="1718029968943" />
+    </e>
+    <e n="EditorUp">
+      <i c="9" l="1717738994905" />
+    </e>
+    <e n="Find">
+      <i c="46" l="1717482388849" />
+    </e>
+    <e n="FindInPath">
+      <i c="10" l="1719934632828" />
+    </e>
+    <e n="Forward">
+      <i c="8" l="1719933196363" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="77" l="1719933187216" />
+    </e>
+    <e n="MoreRunToolbarActions">
+      <i c="31" l="1719933247470" />
+    </e>
+    <e n="NewPythonFile">
+      <i c="1" l="1716762603837" />
+    </e>
+    <e n="PasteMultiple">
+      <i c="19" l="1717955863751" />
+    </e>
+    <e n="Replace">
+      <i c="1" l="1717164408039" />
+    </e>
+    <e n="Resume">
+      <i c="318" l="1719933272500" />
+    </e>
+    <e n="Run">
+      <i c="3" l="1717481626397" />
+    </e>
+    <e n="RunClass">
+      <i c="3" l="1716763213714" />
+    </e>
+    <e n="SaveAll">
+      <i c="147" l="1719170245676" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="1" l="1717603141200" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="2" l="1716762930624" />
+    </e>
+    <e n="ShowSettings">
+      <i c="1" l="1717686298079" />
+    </e>
+    <e n="StepInto">
+      <i c="143" l="1719169927466" />
+    </e>
+    <e n="StepOver">
+      <i c="1607" l="1719170089524" />
+    </e>
+    <e n="Stop">
+      <i c="68" l="1719176955166" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="60" l="1719933241814" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1716762518108" />
+    </e>
+    <e n="XDebugger.CopyValue">
+      <i c="1" l="1717737278096" />
+    </e>
+    <e n="com.intellij.execution.actions.RunConfigurationsComboBoxAction$SelectConfigAction$1">
+      <i c="1" l="1717477418238" />
+    </e>
+    <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
+      <i c="6" l="1717081125906" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
+      <i c="39" l="1717482399187" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.PrevOccurrenceAction">
+      <i c="5" l="1717482283281" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.SwitchToFind">
+      <i c="2" l="1717171722941" />
+    </e>
+    <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
+      <i c="1" l="1717899153633" />
+    </e>
+    <e n="com.intellij.ide.startup.importSettings.chooser.productChooser.SkipImportAction">
+      <i c="1" l="1716762370498" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
+      <i c="1210" l="1719170247150" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="10" l="1717859267263" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="3" l="1719934645429" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="3" l="1716764034353" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="1" l="1717686275473" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="36" l="1719933271164" />
+    </e>
+    <e n="com.jetbrains.python.sdk.AddLocalInterpreterAction">
+      <i c="3" l="1716762643565" />
+    </e>
+    <e n="com.jetbrains.python.sdk.PySdkPopupFactory$InterpreterSettingsAction">
+      <i c="2" l="1716762592010" />
+    </e>
+    <e n="com.jetbrains.python.sdk.PySdkPopupFactory$SwitchToSdkAction">
+      <i c="1" l="1716762640927" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
+      <i c="130" l="1719934658514" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="26" l="1719933248350" />
+    </e>
+  </component>
+</application>

@@ -1,0 +1,66 @@
+2024-05-26 14:53:16.040 [info] Getting Manifest... asvetliakov.vscode-neovim
+2024-05-26 14:53:16.041 [info] Getting Manifest... ms-python.debugpy
+2024-05-26 14:53:16.042 [info] Getting Manifest... ms-python.python
+2024-05-26 14:53:16.042 [info] Getting Manifest... ms-python.vscode-pylance
+2024-05-26 14:53:16.194 [info] Installing extension: ms-python.debugpy
+2024-05-26 14:53:16.199 [info] Installing extension: ms-python.python
+2024-05-26 14:53:16.200 [info] Installing extension: ms-python.vscode-pylance
+2024-05-26 14:53:16.200 [info] Installing extension: asvetliakov.vscode-neovim
+2024-05-26 14:53:16.599 [info] Getting Manifest... ms-python.python
+2024-05-26 14:53:16.637 [info] Getting Manifest... ms-python.python
+2024-05-26 14:53:16.646 [info] Waiting for already requested installing extension ms-python.python ms-python.debugpy
+2024-05-26 14:53:16.695 [info] Waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2024-05-26 14:53:18.260 [info] Extension signature verification result for ms-python.debugpy: Success. Duration: 934ms.
+2024-05-26 14:53:18.294 [info] Extension signature verification result for ms-python.python: Success. Duration: 1017ms.
+2024-05-26 14:53:18.372 [info] Extension signature verification result for asvetliakov.vscode-neovim: Success. Duration: 1100ms.
+2024-05-26 14:53:18.378 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Duration: 603ms.
+2024-05-26 14:53:18.466 [info] Extracted extension to file:///home/vincent/.vscode/extensions/asvetliakov.vscode-neovim-1.13.1: asvetliakov.vscode-neovim
+2024-05-26 14:53:18.470 [info] Renamed to /home/vincent/.vscode/extensions/asvetliakov.vscode-neovim-1.13.1
+2024-05-26 14:53:18.472 [info] Extracting extension completed. asvetliakov.vscode-neovim
+2024-05-26 14:53:18.481 [info] Extension installed successfully: asvetliakov.vscode-neovim
+2024-05-26 14:53:18.484 [info] Marked extension as uninstalled asvetliakov.vscode-neovim-1.8.2
+2024-05-26 14:53:18.563 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/vincent/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/vincent/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-05-26 14:53:18.678 [info] Extracted extension to file:///home/vincent/.vscode/extensions/ms-python.debugpy-2024.6.0-linux-x64: ms-python.debugpy
+2024-05-26 14:53:18.681 [info] Renamed to /home/vincent/.vscode/extensions/ms-python.debugpy-2024.6.0-linux-x64
+2024-05-26 14:53:18.683 [info] Extracting extension completed. ms-python.debugpy
+2024-05-26 14:53:18.691 [info] Marked extension as uninstalled ms-python.debugpy-2024.4.0-linux-x64
+2024-05-26 14:53:18.810 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/vincent/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/vincent/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-05-26 14:53:19.647 [info] Extracted extension to file:///home/vincent/.vscode/extensions/ms-python.python-2024.6.0: ms-python.python
+2024-05-26 14:53:19.649 [info] Renamed to /home/vincent/.vscode/extensions/ms-python.python-2024.6.0
+2024-05-26 14:53:19.651 [info] Extracting extension completed. ms-python.python
+2024-05-26 14:53:19.658 [info] Extension installed successfully: ms-python.python
+2024-05-26 14:53:19.658 [info] Finished waiting for already requested installing extension ms-python.python ms-python.debugpy
+2024-05-26 14:53:19.658 [info] Finished waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2024-05-26 14:53:19.658 [info] Extension installed successfully: ms-python.debugpy
+2024-05-26 14:53:19.662 [info] Marked extension as uninstalled ms-python.python-2024.4.1
+2024-05-26 14:53:19.729 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/vincent/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/vincent/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-05-26 14:53:21.527 [info] Extracted extension to file:///home/vincent/.vscode/extensions/ms-python.vscode-pylance-2024.5.1: ms-python.vscode-pylance
+2024-05-26 14:53:21.530 [info] Renamed to /home/vincent/.vscode/extensions/ms-python.vscode-pylance-2024.5.1
+2024-05-26 14:53:21.531 [info] Extracting extension completed. ms-python.vscode-pylance
+2024-05-26 14:53:21.536 [info] Extension installed successfully: ms-python.vscode-pylance
+2024-05-26 14:53:21.540 [info] Marked extension as uninstalled ms-python.vscode-pylance-2024.4.1
+2024-05-26 14:53:21.609 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/vincent/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/vincent/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)

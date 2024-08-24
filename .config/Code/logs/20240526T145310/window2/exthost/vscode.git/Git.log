@@ -1,0 +1,62 @@
+2024-05-26 14:53:21.275 [info] Log level: Info
+2024-05-26 14:53:21.275 [info] Validating found git in: "git"
+2024-05-26 14:53:21.275 [info] Using git "2.34.1" from "git"
+2024-05-26 14:53:41.312 [info] Log level: Info
+2024-05-26 14:53:41.312 [info] Validating found git in: "git"
+2024-05-26 14:53:41.312 [info] Using git "2.34.1" from "git"
+2024-05-26 14:53:41.312 [info] > git rev-parse --show-toplevel [6ms]
+2024-05-26 14:53:41.317 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-05-26 14:53:41.323 [info] Open repository: /home/vincent/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack
+2024-05-26 14:53:41.334 [info] > git rev-parse --show-toplevel [3ms]
+2024-05-26 14:53:41.334 [info] > git config --get commit.template [7ms]
+2024-05-26 14:53:41.343 [info] > git rev-parse --show-toplevel [4ms]
+2024-05-26 14:53:41.347 [info] > git rev-parse --show-toplevel [1ms]
+2024-05-26 14:53:41.351 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2024-05-26 14:53:41.354 [warning] ENOENT: no such file or directory, open '/home/vincent/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/.git/refs/remotes/origin/main'
+2024-05-26 14:53:41.355 [info] > git rev-parse --show-toplevel [5ms]
+2024-05-26 14:53:41.358 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2024-05-26 14:53:41.362 [info] > git rev-parse --show-toplevel [4ms]
+2024-05-26 14:53:41.366 [info] > git rev-parse --show-toplevel [1ms]
+2024-05-26 14:53:41.370 [info] > git rev-parse --show-toplevel [1ms]
+2024-05-26 14:53:41.374 [info] > git rev-parse --show-toplevel [1ms]
+2024-05-26 14:53:41.377 [info] > git status -z -uall [15ms]
+2024-05-26 14:53:41.389 [info] > git merge-base refs/heads/main refs/remotes/origin/main [8ms]
+2024-05-26 14:53:41.393 [info] > git config --get commit.template [4ms]
+2024-05-26 14:53:41.399 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [6ms]
+2024-05-26 14:53:41.403 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2024-05-26 14:53:41.445 [warning] ENOENT: no such file or directory, open '/home/vincent/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/.git/refs/remotes/origin/main'
+2024-05-26 14:53:41.446 [info] > git diff --name-status -z --diff-filter=ADMR 55ef030729df1355e1654c727c868fe773717add...refs/remotes/origin/main [43ms]
+2024-05-26 14:53:41.459 [info] > git rev-parse refs/remotes/origin/main [14ms]
+2024-05-26 14:53:41.477 [info] > git status -z -uall [15ms]
+2024-05-26 14:53:41.832 [info] > git check-ignore -v -z --stdin [2ms]
+2024-05-26 14:53:53.667 [info] > git show --textconv :.vscode/launch.json [4ms]
+2024-05-26 14:53:53.667 [info] > git ls-files --stage -- /home/vincent/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/.vscode/launch.json [1ms]
+2024-05-26 14:53:53.907 [info] > git check-ignore -v -z --stdin [1ms]
+2024-05-26 14:53:54.518 [info] > git config --get commit.template [4ms]
+2024-05-26 14:53:54.518 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-05-26 14:53:54.521 [warning] ENOENT: no such file or directory, open '/home/vincent/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/.git/refs/remotes/origin/main'
+2024-05-26 14:53:54.522 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-05-26 14:53:54.540 [info] > git status -z -uall [15ms]
+2024-05-26 14:54:01.196 [info] > git show --textconv :notes.txt [5ms]
+2024-05-26 14:54:01.196 [info] > git ls-files --stage -- /home/vincent/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/notes.txt [1ms]
+2024-05-26 14:54:01.791 [info] > git show --textconv :main_fed.py [5ms]
+2024-05-26 14:54:01.792 [info] > git ls-files --stage -- /home/vincent/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py [2ms]
+2024-05-26 14:54:01.798 [info] > git cat-file -s d7e75d6f59f68dea7f3f9977fd6fc58e26682147 [2ms]
+2024-05-26 14:58:55.350 [info] > git show --textconv :.vscode/launch.json [5ms]
+2024-05-26 14:58:55.351 [info] > git ls-files --stage -- /home/vincent/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/.vscode/launch.json [2ms]
+2024-05-26 15:00:27.134 [info] > git show --textconv :main_fed.py [5ms]
+2024-05-26 15:00:27.135 [info] > git ls-files --stage -- /home/vincent/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py [1ms]
+2024-05-26 15:00:27.140 [info] > git cat-file -s d7e75d6f59f68dea7f3f9977fd6fc58e26682147 [1ms]
+2024-05-26 15:00:27.205 [info] > git config --get commit.template [6ms]
+2024-05-26 15:00:27.206 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-26 15:00:27.210 [warning] ENOENT: no such file or directory, open '/home/vincent/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/.git/refs/remotes/origin/main'
+2024-05-26 15:00:27.211 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-05-26 15:00:27.236 [info] > git status -z -uall [21ms]
+2024-05-26 15:00:55.032 [info] > git config --get commit.template [5ms]
+2024-05-26 15:00:55.036 [info] > git ls-files --stage -- /home/vincent/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py [5ms]
+2024-05-26 15:00:55.041 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2024-05-26 15:00:55.044 [warning] ENOENT: no such file or directory, open '/home/vincent/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/.git/refs/remotes/origin/main'
+2024-05-26 15:00:55.044 [info] > git cat-file -s d7e75d6f59f68dea7f3f9977fd6fc58e26682147 [4ms]
+2024-05-26 15:00:55.049 [info] > git rev-parse refs/remotes/origin/main [5ms]
+2024-05-26 15:00:55.052 [info] > git show --textconv :main_fed.py [4ms]
+2024-05-26 15:00:55.067 [info] > git status -z -uall [15ms]

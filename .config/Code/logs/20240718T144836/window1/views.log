@@ -1,0 +1,22 @@
+2024-07-18 14:48:37.100 [info] Added views:workbench.panel.markers.view in workbench.panel.markers
+2024-07-18 14:48:37.100 [info] Added views:workbench.panel.output in workbench.panel.output
+2024-07-18 14:48:37.100 [info] Added views:terminal in terminal
+2024-07-18 14:48:37.100 [info] Added views:outline in workbench.view.explorer
+2024-07-18 14:48:37.100 [info] Added views:workbench.scm in workbench.view.scm
+2024-07-18 14:48:37.100 [info] Added views:workbench.view.search in workbench.view.search
+2024-07-18 14:48:37.100 [info] Added views:timeline in workbench.view.explorer
+2024-07-18 14:48:37.100 [info] Added views:workbench.explorer.fileView in workbench.view.explorer
+2024-07-18 21:48:38.830 [info] Added views:workbench.debug.variablesView,workbench.debug.watchExpressionsView,workbench.debug.callStackView,workbench.debug.breakPointsView in workbench.view.debug
+2024-07-18 21:48:39.170 [info] Added views:workbench.panel.repl.view in workbench.panel.repl
+2024-07-18 21:48:39.460 [info] Added views:workbench.view.testing in workbench.view.extension.test
+2024-07-18 21:48:39.687 [info] Added views:~remote.forwardedPorts in ~remote.forwardedPortsContainer
+2024-07-18 21:48:41.609 [info] Added views:workbench.views.extensions.installed,workbench.views.extensions.popular,extensions.recommendedList in workbench.view.extensions
+2024-07-18 21:48:41.610 [info] Removed views:workbench.views.extensions.popular from workbench.view.extensions
+2024-07-18 21:48:44.374 [info] Removed views:extensions.recommendedList,workbench.views.extensions.installed from workbench.view.extensions
+2024-07-18 21:48:44.382 [info] Added views:workbench.views.extensions.marketplace in workbench.view.extensions
+2024-07-18 21:48:49.714 [info] Added views:petsView in workbench.view.explorer
+2024-07-18 21:50:28.621 [info] Moved view petsView to workbench.explorer.fileView in workbench.view.explorer
+2024-07-18 21:51:12.857 [info] moveViewsToContainer: views:petsView viewContainer:workbench.panel.output reason:dnd
+2024-07-18 21:51:12.858 [info] Removed views:petsView from workbench.view.explorer
+2024-07-18 21:51:12.860 [info] Added views:petsView in workbench.panel.output
+2024-07-18 21:51:12.866 [info] Moved view petsView to workbench.panel.output in workbench.panel.output

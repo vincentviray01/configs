@@ -1,0 +1,379 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">bWVkaWFu</entry>
+        <entry encoding="base64">d19nbG9iX3VwZGF0ZQ==</entry>
+        <entry encoding="base64">dHlwZV9hcw==</entry>
+        <entry encoding="base64">dmFsX2FjYw==</entry>
+        <entry encoding="base64">YXJncy4=</entry>
+        <entry encoding="base64">cm91bmRfc3RhcnRfZGV0ZWN0</entry>
+        <entry encoding="base64">NTA=</entry>
+        <entry encoding="base64">bGJmZ3M=</entry>
+        <entry encoding="base64">d2VpZ2h0X3JlY29yZA==</entry>
+        <entry encoding="base64">MjA=</entry>
+        <entry encoding="base64">Zmxk</entry>
+        <entry encoding="base64">YnNyX2F0X2xhc3Q=</entry>
+        <entry encoding="base64">Pg==</entry>
+        <entry encoding="base64">YmFzZV9pbmZv</entry>
+        <entry encoding="base64">YXJncy5lcG9jaHM=</entry>
+        <entry encoding="base64">YWZ0ZXI=</entry>
+        <entry encoding="base64">ZmlsZW5hbWU=</entry>
+        <entry encoding="base64">bG9zc190cmFpbg==</entry>
+        <entry encoding="base64">YmFja2Rvb3JfYWNjdWxpc3Q=</entry>
+        <entry encoding="base64">bnVtYmVyIG9m</entry>
+        <entry encoding="base64">bWFsaWNpb3VzIGNsaWU=</entry>
+        <entry encoding="base64">bGFtYmRh</entry>
+        <entry encoding="base64">bGFtYg==</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">OTE1</entry>
+        <entry encoding="base64">NjI1</entry>
+        <entry encoding="base64">NTc5</entry>
+        <entry encoding="base64">dw==</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <project id="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack">
+      <jump line="516" column="52" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="511" column="0" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="603" column="27" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="599" column="46" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="93" column="21" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="99" column="13" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="85" column="45" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="92" column="33" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="86" column="38" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="81" column="16" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="589" column="51" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="590" column="0" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="591" column="45" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="361" column="42" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="845" column="4" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="587" column="0" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="584" column="45" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="583" column="36" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="594" column="66" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="595" column="49" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="407" column="9" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="458" column="20" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="598" column="52" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="509" column="55" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="396" column="16" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="394" column="58" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="385" column="29" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/models/Attacker.py" />
+      <jump line="379" column="27" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/models/Attacker.py" />
+      <jump line="996" column="35" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/utils/defense.py" />
+      <jump line="564" column="29" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="566" column="24" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="829" column="26" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="827" column="44" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="670" column="36" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="558" column="20" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="60" column="13" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="58" column="4" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="331" column="4" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="995" column="30" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/utils/defense.py" />
+      <jump line="1481" column="0" filename="$USER_HOME$/anaconda3/envs/reproduce_bcla/lib/python3.9/site-packages/torch/nn/modules/module.py" />
+      <jump line="678" column="4" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="600" column="44" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="578" column="35" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="634" column="62" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="618" column="91" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="608" column="28" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="625" column="35" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="624" column="31" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="607" column="47" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="14" column="4" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/utils/info.py" />
+      <jump line="59" column="5" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="159" column="10" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="628" column="24" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="623" column="69" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="630" column="26" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="605" column="62" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="604" column="91" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="596" column="30" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="593" column="47" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="381" column="31" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="638" column="19" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="639" column="0" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="640" column="0" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="622" column="32" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="641" column="113" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="633" column="67" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="680" column="61" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="695" column="33" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="711" column="42" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="389" column="0" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="146" column="0" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="431" column="0" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="435" column="0" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="440" column="0" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="445" column="0" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="429" column="0" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="747" column="0" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/models/Attacker.py" />
+      <jump line="489" column="0" filename="$USER_HOME$/anaconda3/envs/reproduce_bcla/lib/python3.9/site-packages/imageio/core/request.py" />
+      <jump line="0" column="11" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/test.py" />
+      <jump line="24" column="19" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/test.py" />
+      <jump line="64" column="35" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/test.py" />
+      <jump line="70" column="28" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/test.py" />
+      <jump line="73" column="0" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/test.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/test.py" />
+      <jump line="52" column="21" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/test.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/models/test.py" />
+      <jump line="177" column="16" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/models/test.py" />
+      <jump line="145" column="38" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/models/test.py" />
+      <jump line="139" column="0" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/models/test.py" />
+      <jump line="137" column="29" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/models/test.py" />
+      <jump line="783" column="0" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/models/Attacker.py" />
+      <jump line="795" column="45" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/models/Attacker.py" />
+      <jump line="449" column="19" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/models/Attacker.py" />
+      <jump line="440" column="22" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/models/Attacker.py" />
+      <jump line="588" column="4" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/models/Attacker.py" />
+      <jump line="439" column="0" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/models/Attacker.py" />
+      <jump line="436" column="0" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="1298" column="0" filename="$USER_HOME$/anaconda3/envs/reproduce_bcla/lib/python3.9/site-packages/torch/nn/functional.py" />
+      <jump line="1295" column="14" filename="$USER_HOME$/anaconda3/envs/reproduce_bcla/lib/python3.9/site-packages/torch/nn/functional.py" />
+      <jump line="209" column="0" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/utils/options.py" />
+    </project>
+    <project id="Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack">
+      <jump line="129" column="26" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/utils/options.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/utils/options.py" />
+      <jump line="646" column="30" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="782" column="57" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="868" column="51" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="265" column="60" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="380" column="24" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="394" column="52" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="498" column="77" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="526" column="27" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="764" column="83" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="524" column="0" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="564" column="16" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="317" column="8" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="509" column="87" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="527" column="26" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="516" column="61" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="295" column="30" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="296" column="25" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="7" column="18" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="26" column="4" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="315" column="24" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="412" column="58" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="760" column="4" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/models/Attacker.py" />
+      <jump line="295" column="28" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/models/Attacker.py" />
+      <jump line="350" column="65" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/models/Attacker.py" />
+      <jump line="370" column="28" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/models/Attacker.py" />
+      <jump line="267" column="74" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/models/Attacker.py" />
+      <jump line="385" column="29" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/models/Attacker.py" />
+      <jump line="581" column="25" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="582" column="16" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="849" column="22" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="359" column="0" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="580" column="0" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="846" column="22" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="602" column="20" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="556" column="38" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="532" column="44" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="520" column="20" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="388" column="20" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="867" column="26" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="832" column="26" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="829" column="26" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="827" column="44" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="803" column="50" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="791" column="26" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="670" column="36" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="661" column="26" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="600" column="20" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="558" column="20" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="561" column="20" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="622" column="12" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="9" column="69" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="331" column="20" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="333" column="58" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="609" column="8" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="866" column="29" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="58" column="15" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="60" column="13" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="67" column="20" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="70" column="22" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="71" column="25" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="631" column="16" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="700" column="51" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="897" column="28" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="374" column="19" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="398" column="45" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="701" column="51" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="898" column="28" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="396" column="29" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="624" column="28" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="699" column="35" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="634" column="62" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="713" column="4" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="895" column="29" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="638" column="8" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="608" column="52" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="332" column="4" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="607" column="47" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="59" column="5" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="559" column="8" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="578" column="8" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="579" column="0" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="660" column="15" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="881" column="14" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="303" column="4" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="597" column="8" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="630" column="37" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="596" column="30" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="593" column="47" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="592" column="12" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="621" column="27" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="680" column="61" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="711" column="42" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="695" column="33" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="508" column="121" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="496" column="157" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="495" column="48" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="400" column="36" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" />
+      <jump line="440" column="22" filename="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/models/Attacker.py" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/save_may28/test/accuracy_file_cifar_resnet_flame_1716856940_adaptive_0.1malicious_1.0poisondata_mode1.txt" timestamp="1719934633895">
+        <mark key="&quot;" line="6" column="30" />
+      </file>
+      <file name="/fragment.py" timestamp="1719933274600">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/models/test.py" timestamp="1719170244254">
+        <mark key="[" line="137" column="25" />
+        <mark key="]" line="137" column="30" />
+        <mark key="^" line="137" column="30" />
+        <mark key="." line="137" column="29" />
+      </file>
+      <file name="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/models/Attacker.py" timestamp="1719933187214">
+        <mark key="&quot;" line="439" column="13" />
+        <mark key="'" line="440" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/save_may28/quick_start/accuracy_file_cifar_resnet_flame_1716682975_adaptive_0.1malicious_1.0poisondata_mode1.txt" timestamp="1719933166490">
+        <mark key="&quot;" line="30" column="7" />
+      </file>
+      <file name="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/models/MaliciousUpdate.py" timestamp="1719934633741">
+        <mark key="&quot;" line="22" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/save_may28/test/accuracy_file_cifar_resnet_flame_1716752933_adaptive_0.1malicious_1.0poisondata_mode1.txt" timestamp="1719933169159">
+        <mark key="&quot;" line="28" column="38" />
+      </file>
+      <file name="/Python Console.py" timestamp="1720050588827">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/models/resnet20.py" timestamp="1719934634196">
+        <mark key="&quot;" line="15" column="10" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1719933248866">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py" timestamp="1719933166614">
+        <mark key="&quot;" line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/utils/sampling.py" timestamp="1719933167355">
+        <mark key="&quot;" line="9" column="27" />
+      </file>
+      <file name="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/docker/Dockerfile" timestamp="1719933166830">
+        <mark key="&quot;" line="2" column="11" />
+      </file>
+      <file name="/a.py" timestamp="1720050588907">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/utils/helper.py" timestamp="1719933167073">
+        <mark key="&quot;" line="14" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/utils/options.py" timestamp="1717953941033">
+        <mark key="&quot;" line="20" column="56" />
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/get_all_save_files.py" timestamp="1719934642911">
+        <mark key="&quot;" line="4" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/models/AttackerUtils.py" timestamp="1717899147532">
+        <mark key="&quot;" line="5" column="11" />
+      </file>
+      <file name="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/utils/defense.py" timestamp="1719934633605">
+        <mark key="&quot;" line="6" column="8" />
+        <mark key="'" line="1007" column="38" />
+        <mark key="[" line="1015" column="0" />
+        <mark key="]" line="1015" column="0" />
+        <mark key="^" line="1015" column="66" />
+        <mark key="." line="1015" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/save_may28/test/accuracy_file_cifar_resnet_flame_1716763222_adaptive_0.1malicious_1.0poisondata_mode1.txt" timestamp="1719934633483">
+        <mark key="&quot;" line="26" column="625" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhY2tkb29yX2FjY3VfYXRfZW5kX29mX2F0dGFjayA9IAo=</text>
+      </register>
+      <register name="-" type="CHARACTER_WISE">
+        <text encoding="base64">ICsgIi8iICsgdGl0bGUgKyAiLnBkZiI=</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64">X3Rlc3Q=</text>
+      </register>
+      <register name="/" type="CHARACTER_WISE">
+        <text encoding="base64">bGFtYg==</text>
+      </register>
+      <register name="0" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaXRlciA+PSBhcmdzLmVwb2NocyBhbmQgYXZnX2JhY2tfYWNjIDw9IDAuNToK</text>
+      </register>
+      <register name="1" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhY2tkb29yX2FjY3VfYXRfZW5kX29mX2F0dGFjayA9IAo=</text>
+      </register>
+      <register name="2" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaXRlciA+PSBhcmdzLmVwb2NocyBhbmQgYXZnX2JhY2tfYWNjIDw9IDUwIGFuZCBhdmdfYmFja19hY2MgPD0gYmFja2Rvb3JfYWNjdToKICAgICAgICAgICAgICAgIHByaW50KCJicmVha2luZyBvdXQgb2YgbG9vcCwgYXZnX2JhY2tfYWNjIDw9IDUwIGFuZCBoYWxmIGxpZmUgcmVhY2hlZCIpCiAgICAgICAgICAgICAgICBicmVhawo=</text>
+      </register>
+      <register name="3" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaXRlciA9PQo=</text>
+      </register>
+      <register name="4" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJISSIpCg==</text>
+      </register>
+      <register name="5" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGFyZ3Muc2F2ZSkK</text>
+      </register>
+      <register name="6" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgICAgICAgICBsb3NzX2xvY2FscyA9IFtdCg==</text>
+      </register>
+      <register name="8" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgZm9yIGl0ZXIgaW4gdHFkbShyYW5nZShhcmdzLm1heF9yb3VuZHMpKToK</text>
+      </register>
+      <register name="9" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYXZnX2JhY2tfYWNjKQo=</text>
+      </register>
+      <register name=":" type="CHARACTER_WISE">
+        <text encoding="base64">dw==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+  <component name="VimVariables">
+    <vim-variables />
+  </component>
+</application>

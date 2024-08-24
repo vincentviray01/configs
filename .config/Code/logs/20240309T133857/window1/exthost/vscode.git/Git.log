@@ -1,0 +1,35 @@
+2024-03-09 13:38:59.060 [info] Log level: Info
+2024-03-09 13:38:59.060 [info] Validating found git in: "git"
+2024-03-09 13:38:59.060 [info] Using git "2.34.1" from "git"
+2024-03-09 13:38:59.060 [info] > git rev-parse --show-toplevel [4ms]
+2024-03-09 13:38:59.060 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-03-09 13:38:59.060 [info] Open repository: /home/vincent/projects/Chameleon-durable-backdoor
+2024-03-09 13:38:59.077 [info] > git config --get commit.template [9ms]
+2024-03-09 13:38:59.078 [info] > git rev-parse --show-toplevel [2ms]
+2024-03-09 13:38:59.122 [info] > git rev-parse --show-toplevel [28ms]
+2024-03-09 13:38:59.122 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [36ms]
+2024-03-09 13:38:59.161 [warning] ENOENT: no such file or directory, open '/home/vincent/projects/Chameleon-durable-backdoor/.git/refs/remotes/origin/main'
+2024-03-09 13:38:59.164 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2024-03-09 13:38:59.170 [info] > git rev-parse --show-toplevel [15ms]
+2024-03-09 13:38:59.178 [info] > git status -z -uall [8ms]
+2024-03-09 13:38:59.178 [info] > git rev-parse --show-toplevel [1ms]
+2024-03-09 13:38:59.197 [info] > git rev-parse --show-toplevel [8ms]
+2024-03-09 13:38:59.208 [info] > git config --get commit.template [12ms]
+2024-03-09 13:38:59.229 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-03-09 13:38:59.236 [warning] ENOENT: no such file or directory, open '/home/vincent/projects/Chameleon-durable-backdoor/.git/refs/remotes/origin/main'
+2024-03-09 13:38:59.237 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-03-09 13:38:59.245 [info] > git status -z -uall [2ms]
+2024-03-09 13:38:59.673 [info] > git check-ignore -v -z --stdin [1ms]
+2024-03-09 14:30:50.964 [info] > git show --textconv :datasets.txt [9ms]
+2024-03-09 14:30:50.965 [info] > git ls-files --stage -- /home/vincent/projects/Chameleon-durable-backdoor/datasets.txt [2ms]
+2024-03-09 14:30:51.500 [info] > git show --textconv :delete.py [10ms]
+2024-03-09 14:30:51.501 [info] > git ls-files --stage -- /home/vincent/projects/Chameleon-durable-backdoor/delete.py [1ms]
+2024-03-09 14:30:52.186 [info] > git show --textconv :functions.py [9ms]
+2024-03-09 14:30:52.187 [info] > git ls-files --stage -- /home/vincent/projects/Chameleon-durable-backdoor/functions.py [2ms]
+2024-03-09 14:30:58.020 [info] > git show --textconv :training.py [9ms]
+2024-03-09 14:30:58.022 [info] > git ls-files --stage -- /home/vincent/projects/Chameleon-durable-backdoor/training.py [2ms]
+2024-03-09 14:30:58.032 [info] > git cat-file -s b93f5cf597114e875276335dca1cfea08a5951d6 [1ms]
+2024-03-09 14:31:00.366 [info] > git show --textconv :delete.py [9ms]
+2024-03-09 14:31:00.367 [info] > git ls-files --stage -- /home/vincent/projects/Chameleon-durable-backdoor/delete.py [2ms]
+2024-03-09 15:08:42.286 [info] > git check-ignore -v -z --stdin [1ms]
+2024-03-09 15:40:51.903 [info] > git check-ignore -v -z --stdin [1ms]

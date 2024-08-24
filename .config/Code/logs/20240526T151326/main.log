@@ -1,0 +1,5 @@
+2024-05-26 15:13:27.017 [info] update#setState idle
+2024-05-26 15:13:57.018 [info] update#setState checking for updates
+2024-05-26 15:13:57.019 [info] update#setState idle
+2024-05-26 15:16:06.367 [info] Extension host with pid 9389 exited with code: 0, signal: unknown.
+2024-05-26 15:16:06.396 [info] Extension host with pid 9344 exited with code: 0, signal: unknown.

@@ -1,0 +1,60 @@
+2024-04-17 19:40:14.238 [info] Extension host with pid 34298 started
+2024-04-17 19:40:14.318 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-04-17 19:40:14.329 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-04-17 19:40:14.366 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2024-04-17 19:40:14.460 [info] Extension host with pid 34324 started
+2024-04-17 19:40:14.641 [info] Eager extensions activated
+2024-04-17 19:40:14.707 [info] ExtensionService#_doActivateExtension asvetliakov.vscode-neovim, startup: false, activationEvent: 'onStartupFinished'
+2024-04-17 19:40:14.732 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-04-17 19:40:15.020 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-04-17 19:40:15.024 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-04-17 19:40:15.070 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-04-17 19:40:15.136 [info] Eager extensions activated
+2024-04-17 19:40:15.142 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-04-17 19:40:15.144 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-04-17 19:40:15.609 [error] Error: [ExtensionListenerError] Extension 'asvetliakov.vscode-neovim' FAILED to handle event: TypeError: Cannot read properties of undefined (reading 'command')
+	at o.value (/snap/code/157/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:20792)
+	at s.y (/snap/code/157/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:659)
+	at s.fire (/snap/code/157/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:876)
+	at D.onDidChangeWindowProperty (/snap/code/157/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:15838)
+	at D.$onDidChangeWindowFocus (/snap/code/157/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:15649)
+	at u.S (/snap/code/157/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5502)
+	at u.Q (/snap/code/157/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5268)
+	at u.M (/snap/code/157/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:4361)
+	at u.L (/snap/code/157/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:3440)
+	at o.value (/snap/code/157/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:2227)
+	at s.y (/snap/code/157/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:659)
+	at s.fire (/snap/code/157/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:876)
+	at r.fire (/snap/code/157/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14173)
+	at o.value (/snap/code/157/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:8018)
+	at s.y (/snap/code/157/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:659)
+	at s.fire (/snap/code/157/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:876)
+	at r.fire (/snap/code/157/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14173)
+	at MessagePortMain.<anonymous> (/snap/code/157/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:6298)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285)
+2024-04-17 19:40:37.276 [error] Error: [ExtensionListenerError] Extension 'asvetliakov.vscode-neovim' FAILED to handle event: TypeError: Cannot read properties of undefined (reading 'command')
+	at o.value (/snap/code/157/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:20792)
+	at s.y (/snap/code/157/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:659)
+	at s.fire (/snap/code/157/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:876)
+	at D.onDidChangeWindowProperty (/snap/code/157/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:15838)
+	at D.$onDidChangeWindowFocus (/snap/code/157/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:15649)
+	at u.S (/snap/code/157/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5502)
+	at u.Q (/snap/code/157/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5268)
+	at u.M (/snap/code/157/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:4361)
+	at u.L (/snap/code/157/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:3440)
+	at o.value (/snap/code/157/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:2227)
+	at s.y (/snap/code/157/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:659)
+	at s.fire (/snap/code/157/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:876)
+	at r.fire (/snap/code/157/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14173)
+	at o.value (/snap/code/157/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:8018)
+	at s.y (/snap/code/157/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:659)
+	at s.fire (/snap/code/157/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:876)
+	at r.fire (/snap/code/157/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14173)
+	at MessagePortMain.<anonymous> (/snap/code/157/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:6298)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285)
+2024-04-17 19:40:39.054 [info] Extension host terminating: renderer closed the MessagePort
+2024-04-17 19:40:39.055 [info] Extension host terminating: renderer closed the MessagePort
+2024-04-17 19:40:39.057 [info] Extension host with pid 34324 exiting with code 0
+2024-04-17 19:40:39.066 [info] Extension host with pid 34298 exiting with code 0

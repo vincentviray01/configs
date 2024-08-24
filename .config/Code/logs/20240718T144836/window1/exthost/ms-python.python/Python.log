@@ -1,0 +1,35 @@
+2024-07-18 21:48:39.391 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-07-18 21:48:39.391 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-07-18 21:48:39.391 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-07-18 21:48:39.391 [info] Experiment 'pythonTestAdapter' is active
+2024-07-18 21:48:39.420 [info] Default formatter is set to null for workspace /home/vincent/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack
+2024-07-18 21:48:39.432 [info] Python interpreter path: ~/anaconda3/envs/reproduce_bcla/bin/python
+2024-07-18 21:48:39.437 [info] > conda info --json
+2024-07-18 21:48:39.473 [info] > pyenv which python
+2024-07-18 21:48:39.474 [info] cwd: .
+2024-07-18 21:48:40.393 [info] > conda config --get auto_activate_base
+2024-07-18 21:48:40.669 [info] Starting Pylance language server.
+2024-07-18 21:48:40.778 [warning] Shell integration may not be active, environment activated may be overridden by the shell.
+2024-07-18 21:48:40.783 [info] > conda info --json
+2024-07-18 21:48:40.783 [info] shell: zsh
+2024-07-18 21:48:41.528 [info] > conda run -n reproduce_bcla --no-capture-output python ~/.vscode/extensions/ms-python.python-2024.8.1/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.8.1/python_files/printEnvVariables.py
+2024-07-18 21:48:41.528 [info] shell: zsh
+2024-07-18 21:48:42.053 [info] > /bin/python ~/.vscode/extensions/ms-python.python-2024.8.1/python_files/printEnvVariables.py
+2024-07-18 21:48:42.053 [info] shell: zsh
+2024-07-18 21:48:43.084 [info] Setting environment variable _CE_M in collection to  {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-07-18 21:48:43.084 [info] Setting environment variable GSETTINGS_SCHEMA_DIR in collection to /home/vincent/anaconda3/envs/reproduce_bcla/share/glib-2.0/schemas {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-07-18 21:48:43.084 [info] Setting environment variable CONDA_ROOT in collection to /home/vincent/anaconda3 {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-07-18 21:48:43.084 [info] Setting environment variable CONDA_PREFIX in collection to /home/vincent/anaconda3/envs/reproduce_bcla {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-07-18 21:48:43.084 [info] Setting environment variable GSETTINGS_SCHEMA_DIR_CONDA_BACKUP in collection to /home/vincent/snap/code/164/.local/share/glib-2.0/schemas {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-07-18 21:48:43.084 [info] Setting environment variable CONDA_PROMPT_MODIFIER in collection to (reproduce_bcla)  {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-07-18 21:48:43.084 [info] Setting environment variable _CE_CONDA in collection to  {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-07-18 21:48:43.084 [info] Setting environment variable CONDA_SHLVL in collection to 2 {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-07-18 21:48:43.084 [info] Setting environment variable CONDA_DEFAULT_ENV in collection to reproduce_bcla {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-07-18 21:48:43.084 [info] Prepending environment variable PATH in collection to /home/vincent/anaconda3/envs/reproduce_bcla/bin:/home/vincent/anaconda3/condabin:/home/vincent/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin:/home/vincent/.local/share/JetBrains/Toolbox/scripts:/home/vincent/.fzf/bin:/home/vincent/homebrew/bin:/home/vincent/.local/bin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-07-18 21:48:43.084 [info] Setting environment variable CONDA_PREFIX_1 in collection to /home/vincent/anaconda3 {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-07-18 21:48:43.084 [info] Prepending environment variable PS1 in collection with (reproduce_bcla)  {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-07-18 21:48:44.085 [info] Send text to terminal: /bin/python /home/vincent/.vscode/extensions/ms-python.python-2024.8.1/python_files/printEnvVariablesToFile.py /home/vincent/.vscode/extensions/ms-python.python-2024.8.1/python_files/deactivate/zsh/envVars.txt
+2024-07-18 21:49:14.087 [error] Failed to initialize deactivate script /usr/bin/zsh [Error: "/home/vincent/.vscode/extensions/ms-python.python-2024.8.1/python_files/deactivate/zsh/envVars.txt" file not created
+	at Timeout.<anonymous> (/home/vincent/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:273846)
+	at listOnTimeout (node:internal/timers:573:17)
+	at process.processTimers (node:internal/timers:514:7)]

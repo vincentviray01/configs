@@ -1,0 +1,18 @@
+2024-06-20 22:05:19.854 [info] (Client) Pylance async client (2024.5.1) started with python extension (2024.6.0)
+2024-06-20 22:05:20.235 [info] [Info  - 10:05:20 PM] (20141) Pylance language server 2024.5.1 (pyright version 1.1.360, commit 4bc8428d) starting
+2024-06-20 22:05:20.236 [info] [Info  - 10:05:20 PM] (20141) Server root directory: file:///home/vincent/.vscode/extensions/ms-python.vscode-pylance-2024.5.1/dist
+2024-06-20 22:05:20.236 [info] [Info  - 10:05:20 PM] (20141) Starting service instance "Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack"
+2024-06-20 22:05:20.239 [info] [Info  - 10:05:20 PM] (20141) Auto-Indent enabled
+2024-06-20 22:05:20.260 [info] [Info  - 10:05:20 PM] (20141) Setting pythonPath for service "Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack": "/home/vincent/anaconda3/envs/reproduce_bcla/bin/python"
+2024-06-20 22:05:20.260 [info] [Info  - 10:05:20 PM] (20141) Setting environmentName for service "Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack": "3.9.19 (reproduce_bcla conda)"
+2024-06-20 22:05:20.292 [info] [Info  - 10:05:20 PM] (20141) Assuming Python version 3.9.19.final.0
+2024-06-20 22:05:20.430 [info] [Info  - 10:05:20 PM] (20141) Found 23 source files
+2024-06-20 22:05:20.587 [info] [Info  - 10:05:20 PM] (20141) Background analysis(1) root directory: file:///home/vincent/.vscode/extensions/ms-python.vscode-pylance-2024.5.1/dist
+2024-06-20 22:05:20.588 [info] [Info  - 10:05:20 PM] (20141) Background analysis(1) started
+2024-06-20 22:05:20.829 [info] [Info  - 10:05:20 PM] (20141) Indexer background runner(2) root directory: file:///home/vincent/.vscode/extensions/ms-python.vscode-pylance-2024.5.1/dist (index)
+2024-06-20 22:05:20.829 [info] [Info  - 10:05:20 PM] (20141) Indexing(2) started
+2024-06-20 22:05:21.228 [info] [Info  - 10:05:21 PM] (20141) scanned(2) 210 files over 1 exec env
+2024-06-20 22:05:21.676 [info] [Info  - 10:05:21 PM] (20141) indexed(2) 157 files over 1 exec env
+2024-06-20 22:05:21.744 [info] [Info  - 10:05:21 PM] (20141) Indexing finished(2).
+2024-06-20 22:05:22.878 [info] [Info  - 10:05:22 PM] (20141) [BG(1)] Long operation: checking: file:///home/vincent/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py (2030ms)
+2024-06-20 22:05:22.878 [info] [Info  - 10:05:22 PM] (20141) [BG(1)] Long operation: analyzing: file:///home/vincent/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py (2197ms)

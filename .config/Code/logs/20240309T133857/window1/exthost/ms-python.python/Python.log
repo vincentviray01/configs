@@ -1,0 +1,14 @@
+2024-03-09 13:38:58.877 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-03-09 13:38:58.877 [info] Experiment 'pythonREPLSmartSend' is active
+2024-03-09 13:38:58.877 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-03-09 13:38:58.877 [info] Experiment 'pythonTestAdapter' is active
+2024-03-09 13:38:58.877 [info] Default formatter is set to null for workspace /home/vincent/projects/Chameleon-durable-backdoor
+2024-03-09 13:38:58.877 [info] Test server listening.
+2024-03-09 13:38:58.877 [info] Python interpreter path: /bin/python3
+2024-03-09 13:38:58.877 [info] > conda info --json
+2024-03-09 13:38:59.206 [info] > conda config --get auto_activate_base
+2024-03-09 13:38:59.863 [info] Starting Pylance language server.
+2024-03-09 13:38:59.892 [warning] Shell integration may not be active, environment activated may be overridden by the shell.
+2024-03-09 13:39:01.453 [info] Shell integration status changed, can confirm it's working.
+2024-03-09 13:43:42.405 [info] Discover tests for workspace name: undefined - uri: /home/vincent/.config/Code/User/settings.json
+2024-03-09 13:44:45.496 [info] Discover tests for workspace name: undefined - uri: /home/vincent/.config/Code/User/settings.json

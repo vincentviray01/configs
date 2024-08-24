@@ -1,0 +1,10 @@
+2024-03-09 13:38:57.774 [info] update#setState idle
+2024-03-09 13:39:27.777 [info] update#setState checking for updates
+2024-03-09 13:39:27.778 [info] update#setState idle
+2024-03-09 14:39:28.216 [info] update#setState checking for updates
+2024-03-09 14:39:28.217 [info] update#setState idle
+2024-03-09 15:39:28.220 [info] update#setState checking for updates
+2024-03-09 15:39:28.220 [info] update#setState idle
+2024-03-09 16:13:41.507 [info] Extension host with pid 10773 exited with code: 0, signal: unknown.
+2024-03-09 16:13:41.508 [info] Extension host with pid 10819 exited with code: 0, signal: unknown.
+2024-03-09 16:13:41.508 [error] ptyHost terminated unexpectedly with code 0

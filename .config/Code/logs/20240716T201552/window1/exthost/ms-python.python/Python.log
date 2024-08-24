@@ -1,0 +1,16 @@
+2024-07-16 20:15:54.658 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-07-16 20:15:54.658 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-07-16 20:15:54.658 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-07-16 20:15:54.658 [info] Experiment 'pythonTestAdapter' is active
+2024-07-16 20:15:54.674 [info] Default formatter is set to null for workspace /home/vincent/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack
+2024-07-16 20:15:54.687 [info] Python interpreter path: ~/anaconda3/envs/reproduce_bcla/bin/python
+2024-07-16 20:15:54.693 [info] > conda info --json
+2024-07-16 20:15:54.700 [info] > pyenv which python
+2024-07-16 20:15:54.700 [info] cwd: .
+2024-07-16 20:15:55.595 [info] > conda config --get auto_activate_base
+2024-07-16 20:15:55.919 [info] Starting Pylance language server.
+2024-07-16 20:15:56.008 [warning] Shell integration may not be active, environment activated may be overridden by the shell.
+2024-07-16 20:15:56.014 [info] > conda info --json
+2024-07-16 20:15:56.015 [info] shell: zsh
+2024-07-16 20:15:56.899 [info] > conda run -n reproduce_bcla --no-capture-output python ~/.vscode/extensions/ms-python.python-2024.8.1/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.8.1/python_files/printEnvVariables.py
+2024-07-16 20:15:56.899 [info] shell: zsh

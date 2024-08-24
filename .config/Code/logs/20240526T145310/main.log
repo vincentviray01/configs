@@ -1,0 +1,17 @@
+2024-05-26 14:53:10.451 [info] update#setState idle
+2024-05-26 14:53:11.560 [error] vscode-file: Refused to load resource /snap/code/157/usr/share/code/resources/app/extensions/theme-seti/icons/seti.woff from vscode-file: protocol (original URL: vscode-file://vscode-app/snap/code/157/usr/share/code/resources/app/extensions/theme-seti/icons/seti.woff)
+2024-05-26 14:53:29.347 [info] Extension host with pid 963745 exited with code: 0, signal: unknown.
+2024-05-26 14:53:29.384 [info] Extension host with pid 963719 exited with code: 0, signal: unknown.
+2024-05-26 14:53:39.143 [info] Extension host with pid 967219 exited with code: 0, signal: unknown.
+2024-05-26 14:53:39.151 [info] Extension host with pid 967157 exited with code: 0, signal: unknown.
+2024-05-26 14:53:40.454 [info] update#setState checking for updates
+2024-05-26 14:53:40.454 [info] update#setState idle
+2024-05-26 15:04:38.570 [warning] No ptyHost heartbeat after 6 seconds
+2024-05-26 15:06:15.577 [warning] No ptyHost heartbeat after 6 seconds
+2024-05-26 15:07:40.061 [warning] No ptyHost heartbeat after 6 seconds
+2024-05-26 15:07:42.874 [error] CodeWindow: renderer process gone (reason: killed, code: 9)
+2024-05-26 15:07:43.953 [info] Extension host with pid 970582 exited with code: 0, signal: unknown.
+2024-05-26 15:07:48.704 [error] [UtilityProcess id: 2, type: fileWatcher, pid: 970566]: crashed with code 139 and reason 'crashed'
+2024-05-26 15:08:14.927 [warning] No ptyHost heartbeat after 6 seconds
+2024-05-26 15:09:24.086 [warning] No ptyHost heartbeat after 6 seconds
+2024-05-26 15:10:33.763 [warning] No ptyHost heartbeat after 6 seconds

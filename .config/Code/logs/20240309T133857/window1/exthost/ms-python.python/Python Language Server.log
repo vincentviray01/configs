@@ -1,0 +1,17 @@
+2024-03-09 13:38:59.472 [info] (Client) Pylance async client (2024.2.3) started with python extension (2024.2.1)
+2024-03-09 13:38:59.853 [info] [Info  - 1:38:59 PM] (10942) Pylance language server 2024.2.3 (pyright version 1.1.348, commit cfb1de0c) starting
+2024-03-09 13:38:59.853 [info] [Info  - 1:38:59 PM] (10942) Server root directory: file:///home/vincent/.vscode/extensions/ms-python.vscode-pylance-2024.2.3/dist
+2024-03-09 13:38:59.853 [info] [Info  - 1:38:59 PM] (10942) Starting service instance "Chameleon-durable-backdoor"
+2024-03-09 13:38:59.876 [info] [Info  - 1:38:59 PM] (10942) Setting pythonPath for service "Chameleon-durable-backdoor": "/bin/python3"
+2024-03-09 13:38:59.876 [info] [Info  - 1:38:59 PM] (10942) Setting environmentName for service "Chameleon-durable-backdoor": "3.10.12 (global)"
+2024-03-09 13:38:59.894 [info] [Info  - 1:38:59 PM] (10942) Assuming Python version 3.10
+2024-03-09 13:38:59.931 [info] [Info  - 1:38:59 PM] (10942) Found 19 source files
+2024-03-09 13:39:00.172 [info] [Info  - 1:39:00 PM] (10942) Background analysis(1) root directory: file:///home/vincent/.vscode/extensions/ms-python.vscode-pylance-2024.2.3/dist
+2024-03-09 13:39:00.174 [info] [Info  - 1:39:00 PM] (10942) Background analysis(1) started
+2024-03-09 13:39:00.262 [info] [Info  - 1:39:00 PM] (10942) Indexer background runner(2) root directory: file:///home/vincent/.vscode/extensions/ms-python.vscode-pylance-2024.2.3/dist (index)
+2024-03-09 13:39:00.262 [info] [Info  - 1:39:00 PM] (10942) Indexing(2) started
+2024-03-09 13:39:00.514 [info] [Info  - 1:39:00 PM] (10942) scanned(2) 83 files over 1 exec env
+2024-03-09 13:39:00.915 [info] [Info  - 1:39:00 PM] (10942) indexed(2) 42 files over 1 exec env
+2024-03-09 13:39:00.952 [info] [Info  - 1:39:00 PM] (10942) Indexing finished(2).
+2024-03-09 15:40:51.159 [info] [Info  - 3:40:51 PM] (10942) Found 20 source files
+2024-03-09 15:46:28.554 [info] [Info  - 3:46:28 PM] (10942) Found 19 source files

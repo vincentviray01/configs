@@ -1,0 +1,32 @@
+2024-07-18 21:48:40.303 [info] (Client) Pylance async client (2024.6.1) started with python extension (2024.8.1)
+2024-07-18 21:48:40.653 [info] [Info  - 9:48:40 PM] (7161) Pylance language server 2024.6.1 (pyright version 1.1.364, commit 0618acc5) starting
+2024-07-18 21:48:40.653 [info] [Info  - 9:48:40 PM] (7161) Server root directory: file:///home/vincent/.vscode/extensions/ms-python.vscode-pylance-2024.6.1/dist
+2024-07-18 21:48:40.654 [info] [Info  - 9:48:40 PM] (7161) Starting service instance "Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack"
+2024-07-18 21:48:40.674 [info] Auto-Indent enabled
+2024-07-18 21:48:40.683 [info] Auto-Indent enabled
+2024-07-18 21:48:40.684 [info] [Info  - 9:48:40 PM] (7161) Setting pythonPath for service "Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack": "/home/vincent/anaconda3/envs/reproduce_bcla/bin/python"
+2024-07-18 21:48:40.684 [info] [Info  - 9:48:40 PM] (7161) Setting environmentName for service "Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack": "3.9.19 (reproduce_bcla conda)"
+2024-07-18 21:48:40.713 [info] [Info  - 9:48:40 PM] (7161) Assuming Python version 3.9.19.final.0
+2024-07-18 21:48:40.873 [info] [Info  - 9:48:40 PM] (7161) Found 24 source files
+2024-07-18 21:48:40.875 [info] Auto-Indent enabled
+2024-07-18 21:48:41.031 [info] [Info  - 9:48:41 PM] (7161) Background analysis(1) root directory: file:///home/vincent/.vscode/extensions/ms-python.vscode-pylance-2024.6.1/dist
+2024-07-18 21:48:41.031 [info] [Info  - 9:48:41 PM] (7161) Background analysis(1) started
+2024-07-18 21:48:41.237 [info] [Info  - 9:48:41 PM] (7161) Indexer background runner(2) root directory: file:///home/vincent/.vscode/extensions/ms-python.vscode-pylance-2024.6.1/dist (index)
+2024-07-18 21:48:41.237 [info] [Info  - 9:48:41 PM] (7161) Indexing(2) started
+2024-07-18 21:48:41.585 [info] [Info  - 9:48:41 PM] (7161) scanned(2) 210 files over 1 exec env
+2024-07-18 21:48:43.271 [info] [Info  - 9:48:43 PM] (7161) indexed(2) 157 files over 1 exec env
+2024-07-18 21:48:43.333 [info] [Info  - 9:48:43 PM] (7161) Indexing finished(2).
+2024-07-18 21:48:49.708 [info] [Info  - 9:48:49 PM] Server process exited successfully
+2024-07-18 21:48:50.197 [info] (Client) Pylance async client (2024.6.1) started with python extension (2024.8.1)
+2024-07-18 21:48:50.546 [info] [Info  - 9:48:50 PM] (8241) Pylance language server 2024.6.1 (pyright version 1.1.364, commit 0618acc5) starting
+2024-07-18 21:48:50.546 [info] [Info  - 9:48:50 PM] (8241) Server root directory: file:///home/vincent/.vscode/extensions/ms-python.vscode-pylance-2024.6.1/dist
+2024-07-18 21:48:50.550 [info] [Info  - 9:48:50 PM] (8241) Starting service instance "Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack"
+2024-07-18 21:48:50.561 [info] Auto-Indent enabled
+2024-07-18 21:48:50.567 [info] Auto-Indent enabled
+2024-07-18 21:48:50.568 [info] [Info  - 9:48:50 PM] (8241) Setting pythonPath for service "Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack": "/home/vincent/anaconda3/envs/reproduce_bcla/bin/python"
+2024-07-18 21:48:50.568 [info] [Info  - 9:48:50 PM] (8241) Setting environmentName for service "Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack": "3.9.19 (reproduce_bcla conda)"
+2024-07-18 21:48:50.592 [info] [Info  - 9:48:50 PM] (8241) Assuming Python version 3.9.19.final.0
+2024-07-18 21:48:50.706 [info] [Info  - 9:48:50 PM] (8241) Found 24 source files
+2024-07-18 21:48:50.708 [info] Auto-Indent enabled
+2024-07-18 21:48:50.875 [info] [Info  - 9:48:50 PM] (8241) Background analysis(1) root directory: file:///home/vincent/.vscode/extensions/ms-python.vscode-pylance-2024.6.1/dist
+2024-07-18 21:48:50.877 [info] [Info  - 9:48:50 PM] (8241) Background analysis(1) started

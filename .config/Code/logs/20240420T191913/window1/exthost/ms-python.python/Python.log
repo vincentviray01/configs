@@ -1,0 +1,38 @@
+2024-04-20 19:19:14.986 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-04-20 19:19:14.986 [info] Experiment 'pythonREPLSmartSend' is active
+2024-04-20 19:19:14.986 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-04-20 19:19:14.986 [info] Experiment 'pythonTestAdapter' is active
+2024-04-20 19:19:14.986 [info] Test server listening.
+2024-04-20 19:19:14.986 [info] > conda info --json
+2024-04-20 19:19:14.992 [info] Found: /bin/python --> /opt/Python-3.8.3/python
+2024-04-20 19:19:14.993 [info] Found: /bin/python3 --> /bin/python3.10
+2024-04-20 19:19:14.993 [info] Found: /bin/python3.10 --> /bin/python3.10
+2024-04-20 19:19:15.017 [info] Found: /snap/bin/python38 --> /usr/bin/snap
+2024-04-20 19:19:15.064 [info] Found: /usr/bin/python --> /opt/Python-3.8.3/python
+2024-04-20 19:19:15.069 [info] Found: /usr/bin/python3 --> /usr/bin/python3.10
+2024-04-20 19:19:15.069 [info] Found: /usr/bin/python3.10 --> /usr/bin/python3.10
+2024-04-20 19:19:15.075 [info] Found: /usr/local/bin/python3 --> /usr/local/bin/python3.8
+2024-04-20 19:19:15.075 [info] Found: /usr/local/bin/python3.8 --> /usr/local/bin/python3.8
+2024-04-20 19:19:15.077 [info] Found: /home/vincent/anaconda3/bin/python --> /home/vincent/anaconda3/bin/python3.11
+2024-04-20 19:19:15.077 [info] Found: /home/vincent/anaconda3/bin/python3 --> /home/vincent/anaconda3/bin/python3.11
+2024-04-20 19:19:15.077 [info] Found: /home/vincent/anaconda3/bin/python3.1 --> /home/vincent/anaconda3/bin/python3.11
+2024-04-20 19:19:15.077 [info] Found: /home/vincent/anaconda3/bin/python3.11 --> /home/vincent/anaconda3/bin/python3.11
+2024-04-20 19:19:15.086 [info] > /bin/python -I ~/.vscode/extensions/ms-python.python-2024.4.1/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.4.1/python_files/interpreterInfo.py
+2024-04-20 19:19:15.091 [info] > /bin/python3 -I ~/.vscode/extensions/ms-python.python-2024.4.1/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.4.1/python_files/interpreterInfo.py
+2024-04-20 19:19:15.111 [info] > /usr/bin/snap -I ~/.vscode/extensions/ms-python.python-2024.4.1/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.4.1/python_files/interpreterInfo.py
+2024-04-20 19:19:15.126 [info] > /usr/bin/python3 -I ~/.vscode/extensions/ms-python.python-2024.4.1/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.4.1/python_files/interpreterInfo.py
+2024-04-20 19:19:15.130 [info] > /usr/local/bin/python3 -I ~/.vscode/extensions/ms-python.python-2024.4.1/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.4.1/python_files/interpreterInfo.py
+2024-04-20 19:19:15.131 [error] [Error: Command failed: /usr/bin/snap -I /home/vincent/.vscode/extensions/ms-python.python-2024.4.1/python_files/get_output_via_markers.py /home/vincent/.vscode/extensions/ms-python.python-2024.4.1/python_files/interpreterInfo.py
+error: unknown flag `I'
+
+	at ChildProcess.exithandler (node:child_process:423:12)
+	at ChildProcess.emit (node:events:529:35)
+	at maybeClose (node:internal/child_process:1098:16)
+	at Socket.<anonymous> (node:internal/child_process:450:11)
+	at Socket.emit (node:events:517:28)
+	at Pipe.<anonymous> (node:net:350:12)] {
+  code: 64,
+  killed: false,
+  signal: null,
+  cmd: '/usr/bin/snap -I /home/vincent/.vscode/extensions/ms-python.python-2024.4.1/python_files/get_output_via_markers.py /home/vincent/.vscode/extensions/ms-python.python-2024.4.1/python_files/interpreterInfo.py'
+}

@@ -1,0 +1,48 @@
+2024-04-20 19:19:14.427 [info] Extension host with pid 152889 started
+2024-04-20 19:19:14.449 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-04-20 19:19:14.453 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-04-20 19:19:14.532 [info] Extension host with pid 152915 started
+2024-04-20 19:19:14.533 [info] Eager extensions activated
+2024-04-20 19:19:14.535 [info] ExtensionService#_doActivateExtension asvetliakov.vscode-neovim, startup: false, activationEvent: 'onStartupFinished'
+2024-04-20 19:19:14.682 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-04-20 19:19:14.715 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-04-20 19:19:14.998 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-04-20 19:19:15.003 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-04-20 19:19:15.017 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-04-20 19:19:15.044 [info] Eager extensions activated
+2024-04-20 19:19:15.057 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-04-20 19:19:15.058 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-04-20 19:19:15.368 [info] Extension host terminating: renderer closed the MessagePort
+2024-04-20 19:19:15.369 [info] Extension host terminating: renderer closed the MessagePort
+2024-04-20 19:19:15.370 [info] Extension host with pid 152915 exiting with code 0
+2024-04-20 19:19:15.382 [error] ProxyResolver#addCertificatesV1 Canceled: Canceled
+	at new O (/snap/code/157/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:46998)
+	at u.U (/snap/code/157/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5539)
+	at F.<computed>.T.charCodeAt.F.<computed> (/snap/code/157/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:2993)
+	at I.loadCertificates (/snap/code/157/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:155:41182)
+	at Object.loadAdditionalCertificates (/snap/code/157/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:34302)
+	at /snap/code/157/usr/share/code/resources/app/node_modules.asar/@vscode/proxy-agent/out/index.js:475:53
+	at Generator.next (<anonymous>)
+	at /snap/code/157/usr/share/code/resources/app/node_modules.asar/@vscode/proxy-agent/out/index.js:35:71
+	at new Promise (<anonymous>)
+	at __awaiter (/snap/code/157/usr/share/code/resources/app/node_modules.asar/@vscode/proxy-agent/out/index.js:31:12)
+	at /snap/code/157/usr/share/code/resources/app/node_modules.asar/@vscode/proxy-agent/out/index.js:474:43
+	at /snap/code/157/usr/share/code/resources/app/node_modules.asar/@vscode/proxy-agent/out/index.js:476:16
+	at Generator.next (<anonymous>)
+	at /snap/code/157/usr/share/code/resources/app/node_modules.asar/@vscode/proxy-agent/out/index.js:35:71
+	at new Promise (<anonymous>)
+	at __awaiter (/snap/code/157/usr/share/code/resources/app/node_modules.asar/@vscode/proxy-agent/out/index.js:31:12)
+	at getOrLoadAdditionalCertificates (/snap/code/157/usr/share/code/resources/app/node_modules.asar/@vscode/proxy-agent/out/index.js:472:12)
+	at addCertificatesV1 (/snap/code/157/usr/share/code/resources/app/node_modules.asar/@vscode/proxy-agent/out/index.js:456:9)
+	at resolveProxy (/snap/code/157/usr/share/code/resources/app/node_modules.asar/@vscode/proxy-agent/out/index.js:112:9)
+	at /snap/code/157/usr/share/code/resources/app/node_modules.asar/@vscode/proxy-agent/out/index.js:303:77
+	at new Promise (<anonymous>)
+	at _PacProxyAgent.resolveP [as resolver] (/snap/code/157/usr/share/code/resources/app/node_modules.asar/@vscode/proxy-agent/out/index.js:303:54)
+	at _PacProxyAgent.<anonymous> (/snap/code/157/usr/share/code/resources/app/node_modules.asar/@vscode/proxy-agent/out/agent.js:70:37)
+	at Generator.next (<anonymous>)
+	at /snap/code/157/usr/share/code/resources/app/node_modules.asar/@vscode/proxy-agent/out/agent.js:8:71
+	at new Promise (<anonymous>)
+	at __awaiter (/snap/code/157/usr/share/code/resources/app/node_modules.asar/@vscode/proxy-agent/out/agent.js:4:12)
+	at _PacProxyAgent.connect (/snap/code/157/usr/share/code/resources/app/node_modules.asar/@vscode/proxy-agent/out/agent.js:52:16)
+	at /snap/code/157/usr/share/code/resources/app/node_modules.asar/agent-base/dist/index.js:73:30
+2024-04-20 19:19:15.383 [info] Extension host with pid 152889 exiting with code 0

@@ -1,0 +1,96 @@
+2024-05-26 14:53:50.615 [info] Experiment 'pythonCreateEnvOnPipInstallcf' is active
+2024-05-26 14:53:50.615 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-05-26 14:53:50.615 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-05-26 14:53:50.615 [info] Experiment 'pythonTestAdapter' is active
+2024-05-26 14:53:50.615 [info] Default formatter is set to null for workspace /home/vincent/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack
+2024-05-26 14:53:50.615 [info] > hatch env show --json
+2024-05-26 14:53:50.615 [info] cwd: .
+2024-05-26 14:53:50.615 [info] > conda info --json
+2024-05-26 14:53:50.615 [info] Python interpreter path: /bin/python3
+2024-05-26 14:53:50.628 [info] > /bin/python3 -I ~/.vscode/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.6.0/python_files/interpreterInfo.py
+2024-05-26 14:53:50.652 [info] > pyenv which python
+2024-05-26 14:53:50.652 [info] cwd: .
+2024-05-26 14:53:51.488 [info] > conda config --get auto_activate_base
+2024-05-26 14:53:51.660 [warning] Shell integration may not be active, environment activated may be overridden by the shell.
+2024-05-26 14:53:51.772 [info] Starting Pylance language server.
+2024-05-26 14:54:07.089 [info] Send text to terminal:  /usr/bin/env /bin/python3 /home/vincent/.vscode/extensions/ms-python.debugpy-2024.6.0-linux-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 55379 -- /home/vincent/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py 
+2024-05-26 14:58:39.090 [info] Send text to terminal:  /usr/bin/env /bin/python3 /home/vincent/.vscode/extensions/ms-python.debugpy-2024.6.0-linux-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 36665 -- /home/vincent/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py 
+2024-05-26 15:01:06.219 [info] Send text to terminal:  /usr/bin/env /bin/python3 /home/vincent/.vscode/extensions/ms-python.debugpy-2024.6.0-linux-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 58789 -- /home/vincent/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py python main_fed.py --dataset cifar --model resnet --attack lp_attack --lr 0.1 --malicious 0.1 --poison_frac 1.0 --local_ep 2 --local_bs 64 --attack_begin 0 --defence flame --epochs 1 --attack_label 5 --attack_goal -1 --trigger 'square' --triggerX 27 --triggerY 27 --gpu 0 --iid 0 --save save/test --seed 5 
+2024-05-26 15:01:36.062 [info] Send text to terminal:  /usr/bin/env /bin/python3 /home/vincent/.vscode/extensions/ms-python.debugpy-2024.6.0-linux-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 44399 -- /home/vincent/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py --dataset cifar --model resnet --attack lp_attack --lr 0.1 --malicious 0.1 --poison_frac 1.0 --local_ep 2 --local_bs 64 --attack_begin 0 --defence flame --epochs 1 --attack_label 5 --attack_goal -1 --trigger 'square' --triggerX 27 --triggerY 27 --gpu 0 --iid 0 --save save/test --seed 4 
+2024-05-26 15:02:38.064 [info] > conda info --json
+2024-05-26 15:02:38.072 [info] Found: /bin/python --> /opt/Python-3.8.3/python
+2024-05-26 15:02:38.072 [info] Found: /bin/python3 --> /bin/python3.10
+2024-05-26 15:02:38.073 [info] Found: /bin/python3.10 --> /bin/python3.10
+2024-05-26 15:02:38.080 [info] Found: /snap/bin/python38 --> /usr/bin/snap
+2024-05-26 15:02:38.082 [info] Found: /usr/bin/python --> /opt/Python-3.8.3/python
+2024-05-26 15:02:38.083 [info] Found: /usr/bin/python3 --> /usr/bin/python3.10
+2024-05-26 15:02:38.083 [info] Found: /usr/bin/python3.10 --> /usr/bin/python3.10
+2024-05-26 15:02:38.089 [info] Found: /usr/local/bin/python3 --> /usr/local/bin/python3.8
+2024-05-26 15:02:38.089 [info] Found: /usr/local/bin/python3.8 --> /usr/local/bin/python3.8
+2024-05-26 15:02:38.092 [info] Found: /home/vincent/anaconda3/bin/python --> /home/vincent/anaconda3/bin/python3.11
+2024-05-26 15:02:38.092 [info] Found: /home/vincent/anaconda3/bin/python3 --> /home/vincent/anaconda3/bin/python3.11
+2024-05-26 15:02:38.092 [info] Found: /home/vincent/anaconda3/bin/python3.1 --> /home/vincent/anaconda3/bin/python3.11
+2024-05-26 15:02:38.092 [info] Found: /home/vincent/anaconda3/bin/python3.11 --> /home/vincent/anaconda3/bin/python3.11
+2024-05-26 15:02:38.101 [info] > /bin/python -I ~/.vscode/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.6.0/python_files/interpreterInfo.py
+2024-05-26 15:02:38.109 [info] > /usr/bin/snap -I ~/.vscode/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.6.0/python_files/interpreterInfo.py
+2024-05-26 15:02:38.131 [info] > /usr/bin/python3 -I ~/.vscode/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.6.0/python_files/interpreterInfo.py
+2024-05-26 15:02:38.133 [error] [Error: Command failed: /usr/bin/snap -I /home/vincent/.vscode/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py /home/vincent/.vscode/extensions/ms-python.python-2024.6.0/python_files/interpreterInfo.py
+error: unknown flag `I'
+
+	at ChildProcess.exithandler (node:child_process:423:12)
+	at ChildProcess.emit (node:events:529:35)
+	at maybeClose (node:internal/child_process:1098:16)
+	at Socket.<anonymous> (node:internal/child_process:450:11)
+	at Socket.emit (node:events:517:28)
+	at Pipe.<anonymous> (node:net:350:12)] {
+  code: 64,
+  killed: false,
+  signal: null,
+  cmd: '/usr/bin/snap -I /home/vincent/.vscode/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py /home/vincent/.vscode/extensions/ms-python.python-2024.6.0/python_files/interpreterInfo.py'
+}
+2024-05-26 15:02:38.138 [info] > /usr/local/bin/python3 -I ~/.vscode/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.6.0/python_files/interpreterInfo.py
+2024-05-26 15:02:39.278 [info] > ~/anaconda3/bin/python -I ~/.vscode/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.6.0/python_files/interpreterInfo.py
+2024-05-26 15:02:39.285 [info] > ~/anaconda3/envs/chameleon/bin/python -I ~/.vscode/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.6.0/python_files/interpreterInfo.py
+2024-05-26 15:02:39.302 [info] > ~/anaconda3/envs/mlrc_2023/bin/python -I ~/.vscode/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.6.0/python_files/interpreterInfo.py
+2024-05-26 15:02:39.321 [info] > ~/anaconda3/envs/reproduce_bcla/bin/python -I ~/.vscode/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.6.0/python_files/interpreterInfo.py
+2024-05-26 15:02:40.137 [info] > /usr/bin/snap -I ~/.vscode/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.6.0/python_files/interpreterInfo.py
+2024-05-26 15:02:40.154 [error] [Error: Command failed: /usr/bin/snap -I /home/vincent/.vscode/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py /home/vincent/.vscode/extensions/ms-python.python-2024.6.0/python_files/interpreterInfo.py
+error: unknown flag `I'
+
+	at ChildProcess.exithandler (node:child_process:423:12)
+	at ChildProcess.emit (node:events:529:35)
+	at maybeClose (node:internal/child_process:1098:16)
+	at Socket.<anonymous> (node:internal/child_process:450:11)
+	at Socket.emit (node:events:517:28)
+	at Pipe.<anonymous> (node:net:350:12)] {
+  code: 64,
+  killed: false,
+  signal: null,
+  cmd: '/usr/bin/snap -I /home/vincent/.vscode/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py /home/vincent/.vscode/extensions/ms-python.python-2024.6.0/python_files/interpreterInfo.py'
+}
+2024-05-26 15:02:41.555 [info] Discover tests for workspace name: Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack - uri: /home/vincent/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack
+2024-05-26 15:02:41.560 [info] > conda info --json
+2024-05-26 15:02:41.560 [info] shell: zsh
+2024-05-26 15:02:41.560 [info] Python interpreter path: ~/anaconda3/envs/reproduce_bcla/bin/python
+2024-05-26 15:02:42.394 [info] > conda run -n reproduce_bcla --no-capture-output python ~/.vscode/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.6.0/python_files/printEnvVariables.py
+2024-05-26 15:02:42.394 [info] shell: zsh
+2024-05-26 15:02:42.877 [info] > /bin/python ~/.vscode/extensions/ms-python.python-2024.6.0/python_files/printEnvVariables.py
+2024-05-26 15:02:42.877 [info] shell: zsh
+2024-05-26 15:02:43.898 [info] Setting environment variable _CE_M in collection to  {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-05-26 15:02:43.898 [info] Setting environment variable GSETTINGS_SCHEMA_DIR in collection to /home/vincent/anaconda3/envs/reproduce_bcla/share/glib-2.0/schemas {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-05-26 15:02:43.898 [info] Setting environment variable CONDA_ROOT in collection to /home/vincent/anaconda3 {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-05-26 15:02:43.898 [info] Setting environment variable CONDA_PREFIX in collection to /home/vincent/anaconda3/envs/reproduce_bcla {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-05-26 15:02:43.898 [info] Setting environment variable GSETTINGS_SCHEMA_DIR_CONDA_BACKUP in collection to /home/vincent/snap/code/159/.local/share/glib-2.0/schemas {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-05-26 15:02:43.898 [info] Setting environment variable CONDA_PROMPT_MODIFIER in collection to (reproduce_bcla)  {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-05-26 15:02:43.898 [info] Setting environment variable _CE_CONDA in collection to  {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-05-26 15:02:43.898 [info] Setting environment variable CONDA_SHLVL in collection to 2 {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-05-26 15:02:43.898 [info] Setting environment variable CONDA_DEFAULT_ENV in collection to reproduce_bcla {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-05-26 15:02:43.898 [info] Prepending environment variable PATH in collection to /home/vincent/anaconda3/envs/reproduce_bcla/bin:/home/vincent/anaconda3/condabin:/home/vincent/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin:/home/vincent/.fzf/bin:/home/vincent/homebrew/bin:/home/vincent/.local/bin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-05-26 15:02:43.898 [info] Setting environment variable CONDA_PREFIX_1 in collection to /home/vincent/anaconda3 {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-05-26 15:02:43.898 [info] Prepending environment variable PS1 in collection with (reproduce_bcla)  {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-05-26 15:02:44.899 [info] Send text to terminal: /bin/python /home/vincent/.vscode/extensions/ms-python.python-2024.6.0/python_files/printEnvVariablesToFile.py /home/vincent/.vscode/extensions/ms-python.python-2024.6.0/python_files/deactivate/zsh/envVars.txt
+2024-05-26 15:03:06.473 [info] Send text to terminal:  /usr/bin/env /home/vincent/anaconda3/envs/reproduce_bcla/bin/python /home/vincent/.vscode/extensions/ms-python.debugpy-2024.6.0-linux-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 56157 -- /home/vincent/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack/main_fed.py --dataset cifar --model resnet --attack lp_attack --lr 0.1 --malicious 0.1 --poison_frac 1.0 --local_ep 2 --local_bs 64 --attack_begin 0 --defence flame --epochs 1 --attack_label 5 --attack_goal -1 --trigger 'square' --triggerX 27 --triggerY 27 --gpu 0 --iid 0 --save save/test --seed 4 
+2024-05-26 15:03:14.899 [error] Failed to initialize deactivate script /usr/bin/zsh [Error: "/home/vincent/.vscode/extensions/ms-python.python-2024.6.0/python_files/deactivate/zsh/envVars.txt" file not created
+	at Timeout.<anonymous> (/home/vincent/.vscode/extensions/ms-python.python-2024.6.0/out/client/extension.js:2:272632)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)]

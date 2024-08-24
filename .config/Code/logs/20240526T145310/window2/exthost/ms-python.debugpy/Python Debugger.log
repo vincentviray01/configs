@@ -1,0 +1,7 @@
+2024-05-26 14:53:50.618 [info] Name: Python Debugger
+2024-05-26 14:53:50.618 [info] Module: debugpy
+2024-05-26 14:54:05.625 [info] DAP Server launched with command: /bin/python3 /home/vincent/.vscode/extensions/ms-python.debugpy-2024.6.0-linux-x64/bundled/libs/debugpy/adapter
+2024-05-26 14:58:37.484 [info] DAP Server launched with command: /bin/python3 /home/vincent/.vscode/extensions/ms-python.debugpy-2024.6.0-linux-x64/bundled/libs/debugpy/adapter
+2024-05-26 15:01:04.578 [info] DAP Server launched with command: /bin/python3 /home/vincent/.vscode/extensions/ms-python.debugpy-2024.6.0-linux-x64/bundled/libs/debugpy/adapter
+2024-05-26 15:01:34.505 [info] DAP Server launched with command: /bin/python3 /home/vincent/.vscode/extensions/ms-python.debugpy-2024.6.0-linux-x64/bundled/libs/debugpy/adapter
+2024-05-26 15:03:04.679 [info] DAP Server launched with command: /home/vincent/anaconda3/envs/reproduce_bcla/bin/python /home/vincent/.vscode/extensions/ms-python.debugpy-2024.6.0-linux-x64/bundled/libs/debugpy/adapter

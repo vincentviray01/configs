@@ -1,0 +1,16 @@
+2024-05-26 15:13:29.030 [info] (Client) Pylance async client (2024.5.1) started with python extension (2024.6.0)
+2024-05-26 15:13:29.358 [info] [Info  - 3:13:29 PM] (9584) Pylance language server 2024.5.1 (pyright version 1.1.360, commit 4bc8428d) starting
+2024-05-26 15:13:29.358 [info] [Info  - 3:13:29 PM] (9584) Server root directory: file:///home/vincent/.vscode/extensions/ms-python.vscode-pylance-2024.5.1/dist
+2024-05-26 15:13:29.360 [info] [Info  - 3:13:29 PM] (9584) Starting service instance "Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack"
+2024-05-26 15:13:29.363 [info] [Info  - 3:13:29 PM] (9584) Auto-Indent enabled
+2024-05-26 15:13:29.381 [info] [Info  - 3:13:29 PM] (9584) Setting pythonPath for service "Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack": "/home/vincent/anaconda3/envs/reproduce_bcla/bin/python"
+2024-05-26 15:13:29.381 [info] [Info  - 3:13:29 PM] (9584) Setting environmentName for service "Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack": "3.9.19 (reproduce_bcla conda)"
+2024-05-26 15:13:29.406 [info] [Info  - 3:13:29 PM] (9584) Assuming Python version 3.9.19.final.0
+2024-05-26 15:13:29.502 [info] [Info  - 3:13:29 PM] (9584) Found 21 source files
+2024-05-26 15:13:29.717 [info] [Info  - 3:13:29 PM] (9584) Background analysis(1) root directory: file:///home/vincent/.vscode/extensions/ms-python.vscode-pylance-2024.5.1/dist
+2024-05-26 15:13:29.717 [info] [Info  - 3:13:29 PM] (9584) Background analysis(1) started
+2024-05-26 15:13:29.810 [info] [Info  - 3:13:29 PM] (9584) Indexer background runner(2) root directory: file:///home/vincent/.vscode/extensions/ms-python.vscode-pylance-2024.5.1/dist (index)
+2024-05-26 15:13:29.810 [info] [Info  - 3:13:29 PM] (9584) Indexing(2) started
+2024-05-26 15:13:30.193 [info] [Info  - 3:13:30 PM] (9584) scanned(2) 204 files over 1 exec env
+2024-05-26 15:13:30.364 [info] [Info  - 3:13:30 PM] (9584) indexed(2) 153 files over 1 exec env
+2024-05-26 15:13:30.416 [info] [Info  - 3:13:30 PM] (9584) Indexing finished(2).

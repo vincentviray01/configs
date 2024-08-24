@@ -1,0 +1,9 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/projects/Reproducibility_Study_of_Poisoning_Backdoor-critical_Layers_Attack" value="true" />
+      </map>
+    </option>
+  </component>
+</application>
