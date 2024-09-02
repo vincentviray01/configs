@@ -1,0 +1,27 @@
+00:00:00.317809 VirtualBox GUI VM Selector Window 6.1.50_Ubuntu r161033 linux.amd64 (Aug  2 2024 10:31:49) release log
+00:00:00.317810 Log opened 2024-08-24T05:08:45.687635000Z
+00:00:00.317811 Build Type: release
+00:00:00.317814 OS Product: Linux
+00:00:00.317814 OS Release: 6.5.0-44-generic
+00:00:00.317815 OS Version: #44~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Jun 18 14:36:16 UTC 2
+00:00:00.317836 DMI Product Name: X570S AORUS ELITE AX
+00:00:00.317845 DMI Product Version: -CF
+00:00:00.317852 Firmware type: UEFI
+00:00:00.317926 Secure Boot: Disabled
+00:00:00.317961 Host RAM: 31978MB (31.2GB) total, 21088MB (20.5GB) available
+00:00:00.317964 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.317964 Process ID: 151758
+00:00:00.317964 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.317984 Qt version: 5.15.3
+00:00:00.334410 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.334722 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.596794 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x27 x 1920x1053
+00:00:00.612855 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 1920x0 x 2560x1440
+00:01:29.549229 GUI: UIMediumEnumerator: Medium with key={{bb419326-3c17-4136-acb1-5b504f28cf4b}} created
+00:01:29.679273 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:04.531319 GUI: UIMediumEnumerator: Medium with key={{acf86b2b-0b30-4257-ab6a-060012e8cf4f}} created
+00:02:04.553849 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:06.813677 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:06.849416 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:06.981306 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:09:13.818264 GUI: UICommon::sltHandleCommitDataRequest: Emergency shutdown initiated
