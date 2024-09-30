@@ -149,3 +149,10 @@ export MANPATH="${MANPATH-$(manpath)}:$NPM_PACKAGES/share/man"
 
 # export SHELL=`which zsh`
 # [ -z "$ZSH_VERSION" ] && exec "$SHELL" -l
+
+alias ..='cd ..'
+alias ...='cd ../..'
+alias ....='cd ../../..'
+alias .....='cd ../../../..'
+alias ......='cd ../../../../..'
+alias .......='cd ../../../../../..'
