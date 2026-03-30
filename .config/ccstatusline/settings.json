@@ -1,0 +1,96 @@
+{
+  "version": 3,
+  "lines": [
+    [
+      {
+        "id": "d549e981-c467-4c5e-9ebe-b609a08d9944",
+        "type": "session-name",
+        "backgroundColor": "bgBlue"
+      },
+      {
+        "id": "1",
+        "type": "model",
+        "color": "cyan"
+      },
+      {
+        "id": "b380eb2c-959a-4d5f-9bda-de6273836a35",
+        "type": "context-percentage",
+        "backgroundColor": "bgMagenta"
+      },
+      {
+        "id": "d4a9ea0f-1765-40a8-b972-133888338a02",
+        "type": "session-usage",
+        "backgroundColor": "bgBrightGreen"
+      },
+      {
+        "id": "ccad5b93-2822-4509-b40e-47b919dfb948",
+        "type": "reset-timer",
+        "backgroundColor": "bgBrightBlue"
+      },
+      {
+        "id": "4ec65c9f-5525-481c-a627-e8b9bacff56a",
+        "type": "weekly-reset-timer",
+        "backgroundColor": "bgBrightRed"
+      },
+      {
+        "id": "9deef7ba-2bbf-4fc5-97d2-e10ba4753038",
+        "type": "weekly-usage",
+        "backgroundColor": "bgBrightGreen"
+      }
+    ],
+    [
+      {
+        "id": "32ddb832-524e-479e-be6e-59d3f77fa76c",
+        "type": "custom-command",
+        "backgroundColor": "bgMagenta",
+        "commandPath": "pwd"
+      },
+      {
+        "id": "810a3f53-6624-48f1-9d08-deb672b08683",
+        "type": "git-branch",
+        "backgroundColor": "bgBrightMagenta"
+      },
+      {
+        "id": "ebf5a52e-a646-40f3-ab97-cf6eb74e855f",
+        "type": "git-changes",
+        "backgroundColor": "bgBrightBlack"
+      }
+    ],
+    [
+      {
+        "id": "0497569c-f51b-46aa-ac55-c5a7d136b89b",
+        "type": "free-memory",
+        "backgroundColor": "bgBlue"
+      },
+      {
+        "id": "14731873-7a07-4f4e-9066-0ca85837b7dc",
+        "type": "custom-command",
+        "backgroundColor": "bgBrightCyan",
+        "commandPath": "echo -n \"Storage: $(df -h --output=avail . | tail -1 | tr -d ' ')\""
+      }
+    ]
+  ],
+  "flexMode": "full-minus-40",
+  "compactThreshold": 60,
+  "colorLevel": 2,
+  "defaultPadding": " ",
+  "inheritSeparatorColors": false,
+  "globalBold": false,
+  "powerline": {
+    "enabled": true,
+    "separators": [
+      ""
+    ],
+    "separatorInvertBackground": [
+      false
+    ],
+    "startCaps": [
+      ""
+    ],
+    "endCaps": [
+      ""
+    ],
+    "theme": "minimal",
+    "autoAlign": false
+  }
+}
